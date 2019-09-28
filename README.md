@@ -1,0 +1,1 @@
+# StigsStaticSiteGenerator.js
